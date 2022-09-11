@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Quarantine-Catalogo-Cott/static/css/main.734920df.css",
-    "main.js": "/Quarantine-Catalogo-Cott/static/js/main.bdb556e0.js",
+    "main.js": "/Quarantine-Catalogo-Cott/static/js/main.b95269a1.js",
     "static/media/posterfacu.png": "/Quarantine-Catalogo-Cott/static/media/posterfacu.9c893b36881834ce0946.png",
     "static/media/posterjuan.png": "/Quarantine-Catalogo-Cott/static/media/posterjuan.4f456b0ef645c3f0996d.png",
     "static/media/postergabo.png": "/Quarantine-Catalogo-Cott/static/media/postergabo.477bdfd68d7781751f6c.png",
@@ -13,10 +13,10 @@
     "static/media/remera.png": "/Quarantine-Catalogo-Cott/static/media/remera.2c7c2012a8444a473e68.png",
     "index.html": "/Quarantine-Catalogo-Cott/index.html",
     "main.734920df.css.map": "/Quarantine-Catalogo-Cott/static/css/main.734920df.css.map",
-    "main.bdb556e0.js.map": "/Quarantine-Catalogo-Cott/static/js/main.bdb556e0.js.map"
+    "main.b95269a1.js.map": "/Quarantine-Catalogo-Cott/static/js/main.b95269a1.js.map"
   },
   "entrypoints": [
     "static/css/main.734920df.css",
-    "static/js/main.bdb556e0.js"
+    "static/js/main.b95269a1.js"
   ]
 }
